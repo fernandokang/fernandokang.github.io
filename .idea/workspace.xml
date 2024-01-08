@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3496844b-ef29-4a92-9592-16488de8eb46" name="Changes" comment="선택자까지 내용 추가">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2adBrrZzqmTohTvnUEAY9Fc9sH7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/work/project/blog/images/2024-01-08-css-dinner&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\project\blog\images\2024-01-08-css-dinner" />
+      <recent name="C:\work\project\blog\result\2024-01-05-practice" />
+      <recent name="C:\work\project\blog\_pages" />
+      <recent name="C:\work\project\blog\_posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\project\blog\result" />
+      <recent name="C:\work\project\blog\result\2024-01-05-practice\image" />
+      <recent name="C:\work\project\blog\result\2024-01-05-practice" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="blog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="blog" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3496844b-ef29-4a92-9592-16488de8eb46" name="Changes" comment="" />
+      <created>1704638777509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704638777509</updated>
+      <workItem from="1704638778732" duration="8641000" />
+      <workItem from="1704674602322" duration="25722000" />
+      <workItem from="1704741674032" duration="562000" />
+      <workItem from="1704742348581" duration="242000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1704640911664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704640911664</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update test md file">
+      <created>1704646108871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704646108871</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update test md file">
+      <created>1704646256744</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704646256744</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update test md file">
+      <created>1704646531632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704646531632</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update test md file">
+      <created>1704647355382</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704647355382</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update test md file">
+      <created>1704647773010</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704647773010</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update test md file">
+      <created>1704648162299</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704648162299</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update test md file">
+      <created>1704649069643</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704649069643</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update blog setting">
+      <created>1704649484314</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704649484314</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update blog setting">
+      <created>1704649843749</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704649843749</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update blog setting">
+      <created>1704650554937</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704650554937</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update blog setting">
+      <created>1704655177085</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704655177085</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update 2024-01-05-practice.md">
+      <created>1704675360122</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704675360122</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update 2024-01-05-assignment.md">
+      <created>1704676002569</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704676002569</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix. 이미지 출력 안되는 현상 해결">
+      <created>1704677143255</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1704677143255</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat. 링크 삽입 테스트">
+      <created>1704685418687</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704685418687</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat. 링크 삽입 테스트">
+      <created>1704685963717</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1704685963717</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat. 실행 결과 페이지 추가">
+      <created>1704686773198</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704686773198</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fix. 링크 수정">
+      <created>1704687063692</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1704687063692</updated>
+    </task>
+    <task id="LOCAL-00020" summary="feat. add 2024-01-08-css-diner.md">
+      <created>1704702063285</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1704702063285</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fix. add 2024-01-08-css-diner.md 사이트 링크 추가">
+      <created>1704702539480</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1704702539480</updated>
+    </task>
+    <task id="LOCAL-00022" summary="test. codepen 적용 테스트">
+      <created>1704704014153</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1704704014153</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fix. 내용 수정">
+      <created>1704704403375</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1704704403375</updated>
+    </task>
+    <task id="LOCAL-00024" summary="중간 저장">
+      <created>1704708251915</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1704708251915</updated>
+    </task>
+    <task id="LOCAL-00025" summary="중간 저장">
+      <created>1704708363069</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1704708363069</updated>
+    </task>
+    <task id="LOCAL-00026" summary="fix. 코드펜 작업 수정">
+      <created>1704709379500</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1704709379500</updated>
+    </task>
+    <task id="LOCAL-00027" summary="중간 저장">
+      <created>1704710700910</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1704710700910</updated>
+    </task>
+    <task id="LOCAL-00028" summary="중간 저장">
+      <created>1704711457517</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1704711457517</updated>
+    </task>
+    <task id="LOCAL-00029" summary="선택자까지 내용 추가">
+      <created>1704734626026</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1704734626026</updated>
+    </task>
+    <task id="LOCAL-00030" summary="선택자까지 내용 추가">
+      <created>1704742487093</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1704742487093</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="update test md file" />
+    <MESSAGE value="update blog fonts" />
+    <MESSAGE value="update blog setting" />
+    <MESSAGE value="update 2024-01-05-practice.md" />
+    <MESSAGE value="update 2024-01-05-assignment.md" />
+    <MESSAGE value="fix. 이미지 출력 안되는 현상 해결" />
+    <MESSAGE value="feat. 링크 삽입 테스트" />
+    <MESSAGE value="feat. 실행 결과 페이지 추가" />
+    <MESSAGE value="fix. 링크 수정" />
+    <MESSAGE value="feat. add 2024-01-08-css-diner.md" />
+    <MESSAGE value="fix. add 2024-01-08-css-diner.md 사이트 링크 추가" />
+    <MESSAGE value="test. codepen 적용 테스트" />
+    <MESSAGE value="fix. 내용 수정" />
+    <MESSAGE value="fix. 코드펜 작업 수정" />
+    <MESSAGE value="중간 저장" />
+    <MESSAGE value="선택자까지 내용 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="선택자까지 내용 추가" />
+  </component>
+</project>
